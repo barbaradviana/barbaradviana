@@ -1,4 +1,6 @@
 ## Barbara Viana 
+Oi, sou uma pessoa apaixonada por tecnologia. Estou determinado a adquirir novas habilidades, preparada para enfrentar desafios e superar obstáculos nos fundamentos essenciais de programação e desenvolvimento web. Estou ansiosa para contribuir para projetos inovadores e evoluir constantemente nessa jornada
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <div align="center">
